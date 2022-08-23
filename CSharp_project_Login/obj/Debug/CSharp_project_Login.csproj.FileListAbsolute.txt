@@ -1,0 +1,10 @@
+C:\Users\KB\Desktop\sss\C#\CSharp_Project\CSharp_project_Login\bin\Debug\CSharp_project_Login.exe.config
+C:\Users\KB\Desktop\sss\C#\CSharp_Project\CSharp_project_Login\bin\Debug\CSharp_project_Login.exe
+C:\Users\KB\Desktop\sss\C#\CSharp_Project\CSharp_project_Login\bin\Debug\CSharp_project_Login.pdb
+C:\Users\KB\Desktop\sss\C#\CSharp_Project\CSharp_project_Login\obj\Debug\CSharp_project_Login.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\sss\C#\CSharp_Project\CSharp_project_Login\obj\Debug\CSharp_project_Login.Form1.resources
+C:\Users\KB\Desktop\sss\C#\CSharp_Project\CSharp_project_Login\obj\Debug\CSharp_project_Login.Properties.Resources.resources
+C:\Users\KB\Desktop\sss\C#\CSharp_Project\CSharp_project_Login\obj\Debug\CSharp_project_Login.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\sss\C#\CSharp_Project\CSharp_project_Login\obj\Debug\CSharp_project_Login.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\sss\C#\CSharp_Project\CSharp_project_Login\obj\Debug\CSharp_project_Login.exe
+C:\Users\KB\Desktop\sss\C#\CSharp_Project\CSharp_project_Login\obj\Debug\CSharp_project_Login.pdb

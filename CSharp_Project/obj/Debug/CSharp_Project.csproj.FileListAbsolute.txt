@@ -1,0 +1,109 @@
+C:\Users\mysky\source\repos\CSharp_Project\CSharp_Project\bin\Debug\CSharp_Project.exe.config
+C:\Users\mysky\source\repos\CSharp_Project\CSharp_Project\bin\Debug\CSharp_Project.exe
+C:\Users\mysky\source\repos\CSharp_Project\CSharp_Project\bin\Debug\CSharp_Project.pdb
+C:\Users\mysky\source\repos\CSharp_Project\CSharp_Project\obj\Debug\CSharp_Project.csproj.AssemblyReference.cache
+C:\Users\mysky\source\repos\CSharp_Project\CSharp_Project\obj\Debug\CSharp_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\mysky\source\repos\CSharp_Project\CSharp_Project\obj\Debug\CSharp_Project.Form1.resources
+C:\Users\mysky\source\repos\CSharp_Project\CSharp_Project\obj\Debug\CSharp_Project.Properties.Resources.resources
+C:\Users\mysky\source\repos\CSharp_Project\CSharp_Project\obj\Debug\CSharp_Project.csproj.GenerateResource.cache
+C:\Users\mysky\source\repos\CSharp_Project\CSharp_Project\obj\Debug\CSharp_Project.csproj.CoreCompileInputs.cache
+C:\Users\mysky\source\repos\CSharp_Project\CSharp_Project\obj\Debug\CSharp_Project.exe
+C:\Users\mysky\source\repos\CSharp_Project\CSharp_Project\obj\Debug\CSharp_Project.pdb
+C:\Users\mysky\Desktop\Github\C#\CSharp_Project\CSharp_Project\bin\Debug\CSharp_Project.exe.config
+C:\Users\mysky\Desktop\Github\C#\CSharp_Project\CSharp_Project\bin\Debug\CSharp_Project.exe
+C:\Users\mysky\Desktop\Github\C#\CSharp_Project\CSharp_Project\bin\Debug\CSharp_Project.pdb
+C:\Users\mysky\Desktop\Github\C#\CSharp_Project\CSharp_Project\obj\Debug\CSharp_Project.csproj.AssemblyReference.cache
+C:\Users\mysky\Desktop\Github\C#\CSharp_Project\CSharp_Project\obj\Debug\CSharp_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\mysky\Desktop\Github\C#\CSharp_Project\CSharp_Project\obj\Debug\CSharp_Project.Form1.resources
+C:\Users\mysky\Desktop\Github\C#\CSharp_Project\CSharp_Project\obj\Debug\CSharp_Project.Properties.Resources.resources
+C:\Users\mysky\Desktop\Github\C#\CSharp_Project\CSharp_Project\obj\Debug\CSharp_Project.csproj.GenerateResource.cache
+C:\Users\mysky\Desktop\Github\C#\CSharp_Project\CSharp_Project\obj\Debug\CSharp_Project.csproj.CoreCompileInputs.cache
+C:\Users\mysky\Desktop\Github\C#\CSharp_Project\CSharp_Project\obj\Debug\CSharp_Project.exe
+C:\Users\mysky\Desktop\Github\C#\CSharp_Project\CSharp_Project\obj\Debug\CSharp_Project.pdb
+C:\Users\mysky\Desktop\Github\C#\CSharp_Project\CSharp_Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mysky\Desktop\Github\C#\CSharp_Project\CSharp_Project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\mysky\Desktop\Github\C#\CSharp_Project\CSharp_Project\bin\Debug\System.Buffers.dll
+C:\Users\mysky\Desktop\Github\C#\CSharp_Project\CSharp_Project\bin\Debug\System.Memory.dll
+C:\Users\mysky\Desktop\Github\C#\CSharp_Project\CSharp_Project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mysky\Desktop\Github\C#\CSharp_Project\CSharp_Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mysky\Desktop\Github\C#\CSharp_Project\CSharp_Project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\mysky\Desktop\Github\C#\CSharp_Project\CSharp_Project\bin\Debug\System.Text.Json.dll
+C:\Users\mysky\Desktop\Github\C#\CSharp_Project\CSharp_Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\mysky\Desktop\Github\C#\CSharp_Project\CSharp_Project\bin\Debug\System.ValueTuple.dll
+C:\Users\mysky\Desktop\Github\C#\CSharp_Project\CSharp_Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\mysky\Desktop\Github\C#\CSharp_Project\CSharp_Project\bin\Debug\System.Buffers.xml
+C:\Users\mysky\Desktop\Github\C#\CSharp_Project\CSharp_Project\bin\Debug\System.Memory.xml
+C:\Users\mysky\Desktop\Github\C#\CSharp_Project\CSharp_Project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\mysky\Desktop\Github\C#\CSharp_Project\CSharp_Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mysky\Desktop\Github\C#\CSharp_Project\CSharp_Project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\mysky\Desktop\Github\C#\CSharp_Project\CSharp_Project\bin\Debug\System.Text.Json.xml
+C:\Users\mysky\Desktop\Github\C#\CSharp_Project\CSharp_Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\mysky\Desktop\Github\C#\CSharp_Project\CSharp_Project\bin\Debug\System.ValueTuple.xml
+C:\Users\mysky\Desktop\Github\C#\CSharp_Project\CSharp_Project\obj\Debug\CSharp_Project.csproj.CopyComplete
+C:\Users\KB\Desktop\sss\C#\CSharp_Project\CSharp_Project\bin\Debug\CSharp_Project.exe.config
+C:\Users\KB\Desktop\sss\C#\CSharp_Project\CSharp_Project\bin\Debug\CSharp_Project.exe
+C:\Users\KB\Desktop\sss\C#\CSharp_Project\CSharp_Project\bin\Debug\CSharp_Project.pdb
+C:\Users\KB\Desktop\sss\C#\CSharp_Project\CSharp_Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KB\Desktop\sss\C#\CSharp_Project\CSharp_Project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\KB\Desktop\sss\C#\CSharp_Project\CSharp_Project\bin\Debug\System.Buffers.dll
+C:\Users\KB\Desktop\sss\C#\CSharp_Project\CSharp_Project\bin\Debug\System.Memory.dll
+C:\Users\KB\Desktop\sss\C#\CSharp_Project\CSharp_Project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\KB\Desktop\sss\C#\CSharp_Project\CSharp_Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KB\Desktop\sss\C#\CSharp_Project\CSharp_Project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\KB\Desktop\sss\C#\CSharp_Project\CSharp_Project\bin\Debug\System.Text.Json.dll
+C:\Users\KB\Desktop\sss\C#\CSharp_Project\CSharp_Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\KB\Desktop\sss\C#\CSharp_Project\CSharp_Project\bin\Debug\System.ValueTuple.dll
+C:\Users\KB\Desktop\sss\C#\CSharp_Project\CSharp_Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\KB\Desktop\sss\C#\CSharp_Project\CSharp_Project\bin\Debug\System.Buffers.xml
+C:\Users\KB\Desktop\sss\C#\CSharp_Project\CSharp_Project\bin\Debug\System.Memory.xml
+C:\Users\KB\Desktop\sss\C#\CSharp_Project\CSharp_Project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\KB\Desktop\sss\C#\CSharp_Project\CSharp_Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\KB\Desktop\sss\C#\CSharp_Project\CSharp_Project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\KB\Desktop\sss\C#\CSharp_Project\CSharp_Project\bin\Debug\System.Text.Json.xml
+C:\Users\KB\Desktop\sss\C#\CSharp_Project\CSharp_Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\KB\Desktop\sss\C#\CSharp_Project\CSharp_Project\bin\Debug\System.ValueTuple.xml
+C:\Users\KB\Desktop\sss\C#\CSharp_Project\CSharp_Project\obj\Debug\CSharp_Project.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\sss\C#\CSharp_Project\CSharp_Project\obj\Debug\CSharp_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\sss\C#\CSharp_Project\CSharp_Project\obj\Debug\CSharp_Project.Form1.resources
+C:\Users\KB\Desktop\sss\C#\CSharp_Project\CSharp_Project\obj\Debug\CSharp_Project.Properties.Resources.resources
+C:\Users\KB\Desktop\sss\C#\CSharp_Project\CSharp_Project\obj\Debug\CSharp_Project.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\sss\C#\CSharp_Project\CSharp_Project\obj\Debug\CSharp_Project.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\sss\C#\CSharp_Project\CSharp_Project\obj\Debug\CSharp_Project.csproj.CopyComplete
+C:\Users\KB\Desktop\sss\C#\CSharp_Project\CSharp_Project\obj\Debug\CSharp_Project.exe
+C:\Users\KB\Desktop\sss\C#\CSharp_Project\CSharp_Project\obj\Debug\CSharp_Project.pdb
+C:\Users\KB\Desktop\sss\C#\CSharp_Project\CSharp_Project\obj\Debug\CSharp_Project.Form2.resources
+C:\Users\mysky\Desktop\Github\C#\CSharp_Project\CSharp_Project\obj\Debug\CSharp_Project.Form2.resources
+C:\Users\mysky\Desktop\Github\C#\CSharp_Project\CSharp_Project\obj\Debug\CSharp_Project.Form3.resources
+C:\Users\mysky\Desktop\portfolio\Portfolio\CSharp_Project(식당 - 주문,정산)\CSharp_Project\bin\Debug\CSharp_Project.exe.config
+C:\Users\mysky\Desktop\portfolio\Portfolio\CSharp_Project(식당 - 주문,정산)\CSharp_Project\bin\Debug\CSharp_Project.exe
+C:\Users\mysky\Desktop\portfolio\Portfolio\CSharp_Project(식당 - 주문,정산)\CSharp_Project\bin\Debug\CSharp_Project.pdb
+C:\Users\mysky\Desktop\portfolio\Portfolio\CSharp_Project(식당 - 주문,정산)\CSharp_Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mysky\Desktop\portfolio\Portfolio\CSharp_Project(식당 - 주문,정산)\CSharp_Project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\mysky\Desktop\portfolio\Portfolio\CSharp_Project(식당 - 주문,정산)\CSharp_Project\bin\Debug\System.Buffers.dll
+C:\Users\mysky\Desktop\portfolio\Portfolio\CSharp_Project(식당 - 주문,정산)\CSharp_Project\bin\Debug\System.Memory.dll
+C:\Users\mysky\Desktop\portfolio\Portfolio\CSharp_Project(식당 - 주문,정산)\CSharp_Project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mysky\Desktop\portfolio\Portfolio\CSharp_Project(식당 - 주문,정산)\CSharp_Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mysky\Desktop\portfolio\Portfolio\CSharp_Project(식당 - 주문,정산)\CSharp_Project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\mysky\Desktop\portfolio\Portfolio\CSharp_Project(식당 - 주문,정산)\CSharp_Project\bin\Debug\System.Text.Json.dll
+C:\Users\mysky\Desktop\portfolio\Portfolio\CSharp_Project(식당 - 주문,정산)\CSharp_Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\mysky\Desktop\portfolio\Portfolio\CSharp_Project(식당 - 주문,정산)\CSharp_Project\bin\Debug\System.ValueTuple.dll
+C:\Users\mysky\Desktop\portfolio\Portfolio\CSharp_Project(식당 - 주문,정산)\CSharp_Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\mysky\Desktop\portfolio\Portfolio\CSharp_Project(식당 - 주문,정산)\CSharp_Project\bin\Debug\System.Buffers.xml
+C:\Users\mysky\Desktop\portfolio\Portfolio\CSharp_Project(식당 - 주문,정산)\CSharp_Project\bin\Debug\System.Memory.xml
+C:\Users\mysky\Desktop\portfolio\Portfolio\CSharp_Project(식당 - 주문,정산)\CSharp_Project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\mysky\Desktop\portfolio\Portfolio\CSharp_Project(식당 - 주문,정산)\CSharp_Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mysky\Desktop\portfolio\Portfolio\CSharp_Project(식당 - 주문,정산)\CSharp_Project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\mysky\Desktop\portfolio\Portfolio\CSharp_Project(식당 - 주문,정산)\CSharp_Project\bin\Debug\System.Text.Json.xml
+C:\Users\mysky\Desktop\portfolio\Portfolio\CSharp_Project(식당 - 주문,정산)\CSharp_Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\mysky\Desktop\portfolio\Portfolio\CSharp_Project(식당 - 주문,정산)\CSharp_Project\bin\Debug\System.ValueTuple.xml
+C:\Users\mysky\Desktop\portfolio\Portfolio\CSharp_Project(식당 - 주문,정산)\CSharp_Project\obj\Debug\CSharp_Project.csproj.AssemblyReference.cache
+C:\Users\mysky\Desktop\portfolio\Portfolio\CSharp_Project(식당 - 주문,정산)\CSharp_Project\obj\Debug\CSharp_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\mysky\Desktop\portfolio\Portfolio\CSharp_Project(식당 - 주문,정산)\CSharp_Project\obj\Debug\CSharp_Project.Form1.resources
+C:\Users\mysky\Desktop\portfolio\Portfolio\CSharp_Project(식당 - 주문,정산)\CSharp_Project\obj\Debug\CSharp_Project.Form2.resources
+C:\Users\mysky\Desktop\portfolio\Portfolio\CSharp_Project(식당 - 주문,정산)\CSharp_Project\obj\Debug\CSharp_Project.Form3.resources
+C:\Users\mysky\Desktop\portfolio\Portfolio\CSharp_Project(식당 - 주문,정산)\CSharp_Project\obj\Debug\CSharp_Project.Properties.Resources.resources
+C:\Users\mysky\Desktop\portfolio\Portfolio\CSharp_Project(식당 - 주문,정산)\CSharp_Project\obj\Debug\CSharp_Project.csproj.GenerateResource.cache
+C:\Users\mysky\Desktop\portfolio\Portfolio\CSharp_Project(식당 - 주문,정산)\CSharp_Project\obj\Debug\CSharp_Project.csproj.CoreCompileInputs.cache
+C:\Users\mysky\Desktop\portfolio\Portfolio\CSharp_Project(식당 - 주문,정산)\CSharp_Project\obj\Debug\CSharp_Project.csproj.CopyComplete
+C:\Users\mysky\Desktop\portfolio\Portfolio\CSharp_Project(식당 - 주문,정산)\CSharp_Project\obj\Debug\CSharp_Project.exe
+C:\Users\mysky\Desktop\portfolio\Portfolio\CSharp_Project(식당 - 주문,정산)\CSharp_Project\obj\Debug\CSharp_Project.pdb
